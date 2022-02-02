@@ -1,3 +1,2 @@
-# ALEX-SYSTEM
-Я пишу свою ОС.
-Ожидайте появление файлов в ближайшее время. 
+Sample grub.cfg for GRUB and GRUB2.
+Thanks to Rubén Laguna for the providing GRUB2 config.
